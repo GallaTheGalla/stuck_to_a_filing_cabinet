@@ -1,0 +1,4 @@
+communicatebox.x,4
+communicatebox.y,6
+communicatebox.width,549
+communicatebox.height,20
